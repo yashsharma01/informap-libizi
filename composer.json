@@ -1,5 +1,5 @@
 {
-  "name": "informap/libizi",
+  "name": "informap/libtour",
   "license": "MIT",
   "require": {
     "guzzlehttp/guzzle": "~5.0",
