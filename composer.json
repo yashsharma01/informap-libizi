@@ -1,5 +1,5 @@
 {
-  "name": "izitravel/libizi",
+  "name": "izitravel/izilib",
   "license": "MIT",
   "require": {
     "guzzlehttp/guzzle": "~5.0",
